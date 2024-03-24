@@ -1,5 +1,7 @@
 1- git clone https://github.com/basma11elmihy/calendar-app-acc.git
+
 2- run npm install . to install all the node modules
+
 3- git pull origin main to make sure you have all the latest edits going forward
 
 In the project directory, you can run:
